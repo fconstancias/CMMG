@@ -9,7 +9,7 @@
 
 ### Quantify a mouse or human megagenome using a host-specific genome collection
 
-We created Kreken2 + braken databases for CMMG and the Unified human gastrointestinal genome collection (UHGG) with a manually curated taxonomy. They are availalb at https://ezmeta.unige.ch/CMMG/Kraken2db/
+We created Kraken2 + braken databases for CMMG and the Unified human gastrointestinal genome collection (UHGG) with a manually curated taxonomy. They are availalb at https://ezmeta.unige.ch/CMMG/Kraken2db/
 
 We reccomend to use our snakemake pipeline for efficient use of Kraken2 + Braken https://github.com/SilasK/Kraken
 
